@@ -2,6 +2,8 @@
   "expo": {
     "name": "collopensources",
     "slug": "coolopensources",
+    "facebookAppId": "344221342967255",
+    "facebookDisplayName": "Cool Open Sources",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -25,5 +27,6 @@
     "ios": {
       "supportsTablet": true
     }
+    
   }
 }

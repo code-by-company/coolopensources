@@ -27,6 +27,7 @@ const TabNavigator = createMaterialTopTabNavigator(
         },
     },    
     {
+        initialRouteName: 'Home',
         tabBarOptions:{
             activeTintColor: "black",
             inactiveTintColor: "black",
@@ -34,7 +35,8 @@ const TabNavigator = createMaterialTopTabNavigator(
             style:{
                 backgroundColor:'white',
                 borderTopWidth:1,
-                borderTopColor:'#D3D3D3'
+                borderTopColor:'white'
+                
             },
             indicatorStyle: {
                 backgroundColor: 'black',
